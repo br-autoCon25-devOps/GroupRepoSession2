@@ -1,0 +1,4 @@
+VAR
+	Output1 : REAL;
+	Input1 : REAL;
+END_VAR

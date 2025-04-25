@@ -1,0 +1,6 @@
+*.set
+*.isopen
+DO_Workshop/Binaries/
+DO_Workshop/Diagnosis/
+DO_Workshop/Physical/
+DO_Workshop/Temp/
