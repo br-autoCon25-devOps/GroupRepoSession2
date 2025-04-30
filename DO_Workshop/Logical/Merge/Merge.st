@@ -4,7 +4,7 @@ END_PROGRAM
 
 PROGRAM _CYCLIC
 	
-	Output1		:= Input1;
+	Output1		:= Input1 * 5 / 21;
 	
 	// TODO - Enter your line of code on the line below.  Perform math operations on Input1 and assign to Output1
 	 
