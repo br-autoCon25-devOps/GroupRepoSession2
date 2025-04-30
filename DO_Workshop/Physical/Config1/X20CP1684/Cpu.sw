@@ -7,4 +7,7 @@
   <TaskClass Name="Cyclic#4">
     <Task Name="Merge" Source="Merge.prg" Memory="UserROM" Language="IEC" Debugging="true" />
   </TaskClass>
+  <Libraries>
+    <LibraryObject Name="AsBrStr" Source="Libraries.AsBrStr.lby" Memory="UserROM" Language="binary" Debugging="true" />
+  </Libraries>
 </SwConfiguration>
